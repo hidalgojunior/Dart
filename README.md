@@ -28,3 +28,4 @@ DESAFIOS:
 
 3. Fazer o programa que imprima uma tabela com a tabuada do 1 ao 9.
 
+4. Crie um programa que pergunte um valor em graus Fahrenheit e imprima na tela o correspondente em graus Celsius usando C=(f-32) * (5.0/9.0)
