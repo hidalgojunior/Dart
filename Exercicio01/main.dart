@@ -8,5 +8,9 @@ void main() {
   String? a1 = (stdin.readLineSync()!);
   double altura = double.parse(a1);
   double area = base * altura / 2;
-  print("O valor da área é: " + area.toString());
+  double perimetro = (base + base) + (altura + altura);
+  print("O valor da área é: " +
+      area.toString() +
+      " e o valor do perimetro é: " +
+      perimetro.toString());
 }
